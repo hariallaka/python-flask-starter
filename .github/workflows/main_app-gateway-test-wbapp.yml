@@ -68,4 +68,4 @@ jobs:
         with:
           app-name: 'app-gateway-test-wbapp'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_FC0C69991B444A2CA768745F41C7F206 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_8C792E395B2B4D478BECD5A3917D3AF3 }}
