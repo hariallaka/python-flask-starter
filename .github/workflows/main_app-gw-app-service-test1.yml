@@ -68,4 +68,4 @@ jobs:
         with:
           app-name: 'app-gw-app-service-test1'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_53A5FA792E184A39BC938B534C60BEEF }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_8B6E2F03FD0A40759E27AA57A17D3E83 }}
